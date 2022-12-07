@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 </div>          
 
-![Snake animation](https://github.com/seu-usuário-aqui/caiohenri1326/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/caiohenri1326/caiohenri1326/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Contatos:
