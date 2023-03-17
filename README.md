@@ -35,14 +35,5 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>    
 </div>          
-
-
-
-## Contacts:
-
-<div>
-<a href="https://www.linkedin.com/in/caio-henrique-70b229210/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/><a/>
-<a href="https://discord.com/channels/@me"> <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" width="40" height="40">
-</div>  
     
 ![Snake animation](https://github.com/caiohenri1326/caiohenri1326/blob/output/github-contribution-grid-snake.svg)
